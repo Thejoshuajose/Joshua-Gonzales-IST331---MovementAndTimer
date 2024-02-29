@@ -20,6 +20,7 @@ namespace Gonzales_MovementAndTimer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// Moves a control from left to right using a timer and margins
     /// </summary>
     public partial class MainWindow : Window
     {
